@@ -1,0 +1,8 @@
+prefix=/home/alexandru/Documents/GitRepos/AuthonomousDriving/AuthonomousDriving/devel
+
+Name: auto_driving
+Description: Description of auto_driving
+Version: 0.0.1
+Cflags: -I/home/alexandru/Documents/GitRepos/AuthonomousDriving/AuthonomousDriving/devel/include -I/home/alexandru/Documents/GitRepos/AuthonomousDriving/AuthonomousDriving/src/auto_driving/include
+Libs: -L/home/alexandru/Documents/GitRepos/AuthonomousDriving/AuthonomousDriving/devel/lib -lauto_driving
+Requires: rospy std_msgs message_runtime
