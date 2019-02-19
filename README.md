@@ -1,4 +1,4 @@
-Authonomous Driving with ROS
+Autonomous Driving with ROS
 
 Includes:
 -object detection
